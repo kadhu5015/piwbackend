@@ -1,4 +1,5 @@
 //teste
+//funcionou krl
 const view  = require("../views/alunos");
 const Aluno = require("../models/alunos");
 const Matricula = require("../models/matriculas");
